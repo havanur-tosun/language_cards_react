@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/language_cards_react/static/css/main.d49bde31.chunk.css",
+    "main.js": "/language_cards_react/static/js/main.033fb083.chunk.js",
+    "main.js.map": "/language_cards_react/static/js/main.033fb083.chunk.js.map",
+    "runtime-main.js": "/language_cards_react/static/js/runtime-main.268beeba.js",
+    "runtime-main.js.map": "/language_cards_react/static/js/runtime-main.268beeba.js.map",
+    "static/js/2.b1e4f759.chunk.js": "/language_cards_react/static/js/2.b1e4f759.chunk.js",
+    "static/js/2.b1e4f759.chunk.js.map": "/language_cards_react/static/js/2.b1e4f759.chunk.js.map",
+    "index.html": "/language_cards_react/index.html",
+    "static/css/main.d49bde31.chunk.css.map": "/language_cards_react/static/css/main.d49bde31.chunk.css.map",
+    "static/js/2.b1e4f759.chunk.js.LICENSE.txt": "/language_cards_react/static/js/2.b1e4f759.chunk.js.LICENSE.txt",
+    "static/media/cpp.c0a0d2fd.png": "/language_cards_react/static/media/cpp.c0a0d2fd.png",
+    "static/media/css.616d011c.png": "/language_cards_react/static/media/css.616d011c.png",
+    "static/media/go.a0b3b49a.png": "/language_cards_react/static/media/go.a0b3b49a.png",
+    "static/media/java.a507ef79.png": "/language_cards_react/static/media/java.a507ef79.png",
+    "static/media/javascript.7f875163.png": "/language_cards_react/static/media/javascript.7f875163.png",
+    "static/media/php.c767c571.png": "/language_cards_react/static/media/php.c767c571.png",
+    "static/media/python.40f1d1b1.png": "/language_cards_react/static/media/python.40f1d1b1.png",
+    "static/media/react.7b78f5c3.svg": "/language_cards_react/static/media/react.7b78f5c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.268beeba.js",
+    "static/js/2.b1e4f759.chunk.js",
+    "static/css/main.d49bde31.chunk.css",
+    "static/js/main.033fb083.chunk.js"
+  ]
+}
